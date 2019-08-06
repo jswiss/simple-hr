@@ -1,3 +1,6 @@
+#simple-hr
+Simple \HR tools for small companies and startups
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
